@@ -1,5 +1,5 @@
 Nitro Generator and Checker 🚀
-Welcome to the Nitro Generator and Checker project! This Python tool generates and checks Discord Nitro gift codes using a pool of proxies to bypass rate limits. Built for educational purposes, it features proxy scraping, verification, and efficient code checking. 🎉
+Welcome to the Nitro Generator and Checker! This Python tool generates and checks Discord Nitro gift codes using a robust proxy pool to bypass rate limits. Designed for educational purposes, it features advanced proxy scraping, verification, and efficient code checking. 🎉
 Table of Contents 📋
 
 Features
