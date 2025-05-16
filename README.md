@@ -1,7 +1,7 @@
 # 🚀 Discord Nitro Generator & Proxy Scraper
 
 > Un script Python pour **scraper/vérifier des proxies** et **générer/vérifier des codes Discord Nitro**.  
-> 🎯 Créé par **Pecorio17**
+> 🎯 Créé par **Pecorio**
 
 ---
 
